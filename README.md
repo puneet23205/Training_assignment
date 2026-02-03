@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/puneet23205/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@
 | [0013-roman-to-integer](https://github.com/puneet23205/Training_assignment/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/puneet23205/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
@@ -141,6 +143,7 @@
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/puneet23205/LEETCODE/tree/master/0344-reverse-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
