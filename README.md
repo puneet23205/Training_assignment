@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puneet23205/LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/puneet23205/Training_assignment/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/puneet23205/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/puneet23205/LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/puneet23205/Training_assignment/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
@@ -105,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/puneet23205/Training_assignment/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/puneet23205/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
