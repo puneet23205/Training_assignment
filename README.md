@@ -28,6 +28,7 @@
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/puneet23205/Training_assignment/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
