@@ -25,6 +25,7 @@
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/puneet23205/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/puneet23205/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -60,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/puneet23205/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -101,6 +103,7 @@
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/puneet23205/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/puneet23205/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -128,6 +131,7 @@
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puneet23205/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -274,6 +278,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -297,6 +302,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
