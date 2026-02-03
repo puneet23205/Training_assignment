@@ -4,21 +4,21 @@ class Solution {
         int n = nums.length;
         k = k % n;
 
-        // Step 1: Store last k elements
-        int[] temp = new int[k];
+        reverse(nums, 0, n - 1);      // Step 1
+        reverse(nums, 0, k - 1);      // Step 2
+        reverse(nums, k, n - 1);      // Step 3
+    }
 
-        for (int i = 0; i < k; i++) {
-            temp[i] = nums[n - k + i];
-        }
+    private void reverse(int[] nums, int start, int end) {
 
-        // Step 2: Shift remaining elements
-        for (int i = n - 1; i >= k; i--) {
-            nums[i] = nums[i - k];
-        }
+        while (start < end) {
 
-        // Step 3: Copy temp to start
-        for (int i = 0; i < k; i++) {
-            nums[i] = temp[i];
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+
+            start++;
+            end--;
         }
     }
 }
