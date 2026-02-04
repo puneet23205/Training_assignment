@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@
 | [0036-valid-sudoku](https://github.com/puneet23205/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/puneet23205/LEETCODE/tree/master/0242-valid-anagram) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/puneet23205/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -133,6 +136,7 @@
 | [0015-3sum](https://github.com/puneet23205/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puneet23205/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
@@ -171,6 +175,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
