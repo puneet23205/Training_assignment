@@ -53,6 +53,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3637-trionic-array-i](https://github.com/puneet23205/Training_assignment/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/puneet23205/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
@@ -90,6 +91,7 @@
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puneet23205/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
