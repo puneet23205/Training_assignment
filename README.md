@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puneet23205/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/puneet23205/Training_assignment/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0015-3sum](https://github.com/puneet23205/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puneet23205/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
@@ -148,6 +150,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/puneet23205/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
