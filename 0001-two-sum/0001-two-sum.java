@@ -1,23 +1,18 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-            // hash Map to store number -> index
-        HashMap<Integer, Integer> map = new HashMap<>();
+      
+      int n=nums.length;
+      
+      HashMap<Integer,Integer> map = new HashMap<>();
+     for(int i=0;i<n;i++){
 
-        // Traverse the array
-        for (int i = 0; i < nums.length; i++) {
+       int  remaining =target-nums[i];
 
-            int complement = target - nums[i];
-
-            // Check if complement exists
-            if (map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
-            }
-
-            // Store current number
-            map.put(nums[i], i);
-        }
-
-        // No solution (won't happen as per problem)
-        return new int[] {};
+       if(map.containsKey(remaining)){
+         return new int[] {map.get(remaining),i};
+       }
+       map.put(nums[i],i);
+     }
+     return new int [] {};
     }
 }
