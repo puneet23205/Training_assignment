@@ -53,6 +53,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/puneet23205/Training_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/puneet23205/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3379-transformed-array](https://github.com/puneet23205/Training_assignment/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/puneet23205/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/puneet23205/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/puneet23205/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -222,6 +223,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/puneet23205/Training_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/puneet23205/LEETCODE/tree/master/2169-simple-bank-system) |
 | [3336-water-bottles-ii](https://github.com/puneet23205/LEETCODE/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/puneet23205/Training_assignment/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Linked List
