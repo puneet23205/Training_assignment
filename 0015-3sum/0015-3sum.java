@@ -1,32 +1,58 @@
 import java.util.*;
 
 class Solution {
+
     public List<List<Integer>> threeSum(int[] nums) {
 
-        Set<List<Integer>> res = new HashSet<>();
         int n = nums.length;
 
-        for(int i = 0; i < n; i++){
+        List<List<Integer>> res = new ArrayList<>();
 
-            HashSet<Integer> set = new HashSet<>();
+        // Step 1: Sort
+        Arrays.sort(nums);
 
-            for(int j = i+1; j < n; j++){
+        // Step 2: Fix first element
+        for(int i = 0; i < n-2; i++){
 
-                int third = -(nums[i] + nums[j]);
+            // Skip duplicate i
+            if(i > 0 && nums[i] == nums[i-1])
+                continue;
 
-                if(set.contains(third)){
+            int left = i + 1;
+            int right = n - 1;
 
-                    List<Integer> temp =
-                        Arrays.asList(nums[i], nums[j], third);
+            // Step 3: Two pointers
+            while(left < right){
 
-                    Collections.sort(temp);
-                    res.add(temp);
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if(sum == 0){
+
+                    // Add triplet
+                    res.add(Arrays.asList(
+                        nums[i], nums[left], nums[right]
+                    ));
+
+                    left++;
+                    right--;
+
+                    // Skip duplicate left
+                    while(left < right && nums[left] == nums[left-1])
+                        left++;
+
+                    // Skip duplicate right
+                    while(left < right && nums[right] == nums[right+1])
+                        right--;
                 }
-
-                set.add(nums[j]);
+                else if(sum < 0){
+                    left++;
+                }
+                else{
+                    right--;
+                }
             }
         }
 
-        return new ArrayList<>(res);
+        return res;
     }
 }
