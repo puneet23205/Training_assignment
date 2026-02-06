@@ -1,21 +1,50 @@
+//  this solution is also runnable
+//class Solution {
+//     public String longestCommonPrefix(String[] strs) {
+
+//         if (strs.length == 0) return "";
+
+//         String prefix = strs[0];
+
+//         for (int i = 1; i < strs.length; i++) {
+
+//             while (!strs[i].startsWith(prefix)) {
+
+//                 prefix = prefix.substring(0, prefix.length() - 1);
+
+//                 if (prefix.isEmpty())
+//                     return "";
+//             }
+//         }
+
+//         return prefix;
+//     }
+// }
+
+
 class Solution {
     public String longestCommonPrefix(String[] strs) {
 
-        if (strs.length == 0) return "";
+        if (strs == null || strs.length == 0)
+            return "";
 
-        String prefix = strs[0];
+        String first = strs[0];
 
-        for (int i = 1; i < strs.length; i++) {
+        for (int i = 0; i < first.length(); i++) {
 
-            while (!strs[i].startsWith(prefix)) {
+            char ch = first.charAt(i);
 
-                prefix = prefix.substring(0, prefix.length() - 1);
+            for (int j = 1; j < strs.length; j++) {
 
-                if (prefix.isEmpty())
-                    return "";
+                // Length check OR mismatch
+                if (i >= strs[j].length() ||
+                    strs[j].charAt(i) != ch) {
+
+                    return first.substring(0, i);
+                }
             }
         }
 
-        return prefix;
+        return first;
     }
 }
