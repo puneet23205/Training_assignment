@@ -156,6 +156,7 @@
 | [0796-rotate-string](https://github.com/puneet23205/Training_assignment/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
@@ -263,6 +264,7 @@
 | [0225-implement-stack-using-queues](https://github.com/puneet23205/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
