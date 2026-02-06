@@ -130,6 +130,7 @@
 | [0728-self-dividing-numbers](https://github.com/puneet23205/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/puneet23205/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3336-water-bottles-ii](https://github.com/puneet23205/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -148,6 +149,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
@@ -335,6 +337,7 @@
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/puneet23205/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Number Theory
 |  |
