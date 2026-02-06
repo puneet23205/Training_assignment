@@ -88,6 +88,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/puneet23205/Training_assignment/tree/master/0560-subarray-sum-equals-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/puneet23205/Training_assignment/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2169-simple-bank-system](https://github.com/puneet23205/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Divide and Conquer
@@ -160,6 +161,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/puneet23205/Training_assignment/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
@@ -220,6 +222,7 @@
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/puneet23205/Training_assignment/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/puneet23205/Training_assignment/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
