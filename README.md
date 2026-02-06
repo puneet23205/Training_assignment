@@ -100,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/puneet23205/Training_assignment/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -141,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/puneet23205/Training_assignment/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/puneet23205/Training_assignment/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/puneet23205/Training_assignment/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/puneet23205/Training_assignment/tree/master/0014-longest-common-prefix) |
@@ -182,6 +184,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/puneet23205/Training_assignment/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/puneet23205/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/puneet23205/Training_assignment/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
