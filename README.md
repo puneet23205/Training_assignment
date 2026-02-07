@@ -87,6 +87,7 @@
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/puneet23205/Training_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/puneet23205/Training_assignment/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/puneet23205/Training_assignment/tree/master/0560-subarray-sum-equals-k) |
@@ -163,6 +164,7 @@
 | [0242-valid-anagram](https://github.com/puneet23205/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/puneet23205/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/puneet23205/Training_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/puneet23205/Training_assignment/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/puneet23205/Training_assignment/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
@@ -325,6 +327,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/puneet23205/Training_assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/puneet23205/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/puneet23205/Training_assignment/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/puneet23205/Training_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/puneet23205/Training_assignment/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
