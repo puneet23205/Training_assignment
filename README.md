@@ -46,6 +46,7 @@
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0860-design-circular-queue](https://github.com/puneet23205/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
+| [0930-binary-subarrays-with-sum](https://github.com/puneet23205/Training_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/puneet23205/Training_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/puneet23205/Training_assignment/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -91,6 +92,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/puneet23205/Training_assignment/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/puneet23205/Training_assignment/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/puneet23205/Training_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/puneet23205/Training_assignment/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -121,6 +123,7 @@
 | [0238-product-of-array-except-self](https://github.com/puneet23205/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/puneet23205/Training_assignment/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/puneet23205/Training_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/puneet23205/Training_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/puneet23205/Training_assignment/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2102-find-the-middle-index-in-array](https://github.com/puneet23205/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
@@ -328,6 +331,7 @@
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/puneet23205/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/puneet23205/Training_assignment/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/puneet23205/Training_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/puneet23205/Training_assignment/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/puneet23205/Training_assignment/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
