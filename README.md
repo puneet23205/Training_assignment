@@ -321,6 +321,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puneet23205/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
@@ -328,6 +329,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puneet23205/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
@@ -336,6 +338,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/puneet23205/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
