@@ -158,6 +158,7 @@
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/puneet23205/LEETCODE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/puneet23205/Training_assignment/tree/master/1922-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3336-water-bottles-ii](https://github.com/puneet23205/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -294,6 +295,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/puneet23205/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/puneet23205/Training_assignment/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/puneet23205/Training_assignment/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
