@@ -24,6 +24,7 @@
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/puneet23205/Training_assignment/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/puneet23205/Training_assignment/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puneet23205/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/puneet23205/Training_assignment/tree/master/0136-single-number) |
@@ -419,6 +420,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/puneet23205/Training_assignment/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/puneet23205/Training_assignment/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -436,6 +438,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/puneet23205/Training_assignment/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/puneet23205/Training_assignment/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/puneet23205/Training_assignment/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
