@@ -118,6 +118,7 @@
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 | [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,6 +351,7 @@
 | [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -411,6 +415,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/puneet23205/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -462,6 +467,10 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/puneet23205/Training_assignment/tree/master/0014-longest-common-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
 
 This repo is for tracking all my leetcode questions and my consistency
