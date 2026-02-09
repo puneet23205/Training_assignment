@@ -35,6 +35,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/puneet23205/Training_assignment/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/puneet23205/Training_assignment/tree/master/0229-majority-element-ii) |
@@ -452,6 +453,7 @@
 | [0051-n-queens](https://github.com/puneet23205/Training_assignment/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/puneet23205/Training_assignment/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/puneet23205/Training_assignment/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/puneet23205/Training_assignment/tree/master/0216-combination-sum-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
