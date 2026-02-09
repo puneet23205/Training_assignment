@@ -23,3 +23,5 @@ class Solution {
         return ans;
     }
 }
+
+// This is not the most optimal solution ,it has been done via recursion.
