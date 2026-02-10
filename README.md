@@ -29,6 +29,7 @@
 | [0090-subsets-ii](https://github.com/puneet23205/Training_assignment/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/puneet23205/Training_assignment/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puneet23205/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/puneet23205/Training_assignment/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/puneet23205/Training_assignment/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/puneet23205/Training_assignment/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/puneet23205/Training_assignment/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/puneet23205/Training_assignment/tree/master/0205-isomorphic-strings) |
@@ -476,6 +478,10 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/puneet23205/Training_assignment/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
 
 This repo is for tracking all my leetcode questions and my consistency
