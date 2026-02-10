@@ -77,6 +77,7 @@
 | [3637-trionic-array-i](https://github.com/puneet23205/Training_assignment/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/puneet23205/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
@@ -114,6 +115,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/puneet23205/Training_assignment/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2169-simple-bank-system](https://github.com/puneet23205/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/puneet23205/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/puneet23205/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
@@ -482,6 +486,10 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/puneet23205/Training_assignment/tree/master/0128-longest-consecutive-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
 
 This repo is for tracking all my leetcode questions and my consistency
