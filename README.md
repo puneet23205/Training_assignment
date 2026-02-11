@@ -318,6 +318,7 @@
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/puneet23205/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/puneet23205/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
@@ -342,6 +343,7 @@
 | [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -352,6 +354,7 @@
 | [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
@@ -363,6 +366,7 @@
 | [0110-balanced-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/puneet23205/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/puneet23205/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
