@@ -1,54 +1,33 @@
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
 
-        // int n = cardPoints.length;
+      int n = cardPoints.length;
+      int [] nums= cardPoints;
+      int window= n-k;
+      int total=0;
+      int minwindowsum=0;
+      int minsum=Integer.MAX_VALUE;
+      //The idea is to find the window with minimum suma and subtract from total
 
-        // // Sum of all cards
-        // int total = 0;
-        // for (int x : cardPoints) {
-        //     total += x;
-        // }
+      for(int i=0;i<n;i++){
+    total=total+nums[i];
+      }
+      if (k==n) return total;
+      int left=0;
 
-        // // If we take all cards
-        // if (k == n) return total;
-
-        // int window = n - k;
-
-        // // Initial window sum
-        // int curr = 0;
-        // for (int i = 0; i < window; i++) {
-        //     curr += cardPoints[i];
-        // }
-
-        // int minSum = curr;
-
-        // // Sliding window
-        // for (int i = window; i < n; i++) {
-
-        //     curr += cardPoints[i];
-        //     curr -= cardPoints[i - window];
-
-        //     minSum = Math.min(minSum, curr);
-        // }
-
-        // return total - minSum;
-
-
-        //another method can be just by using variables 
-
-        int left=0,right=cardPoints.length-1;
-        int lsum=0,maxsum=0,rsum=0;
-
-        for( int i=0;i<k;i++){
-            lsum+=cardPoints[i];
-            maxsum=lsum;
+      for(int right=0;right<n;right++){
+        minwindowsum += nums[right];
+        
+        if (right-left+1>n-k){
+            minwindowsum = minwindowsum-nums[left];
+            left++;
+        
         }
-        for(int j=k-1;j>=0;j--){
-            lsum=lsum-cardPoints[j];
-            rsum=rsum+cardPoints[right];
-            right--;
-            maxsum=Math.max(maxsum,lsum+rsum);
+        if(right-left+1==window){
+    
+            minsum=Math.min(minsum,minwindowsum);
         }
-        return maxsum;
+      }
+     return total-minsum;
     }
 }
