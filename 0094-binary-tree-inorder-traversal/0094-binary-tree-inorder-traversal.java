@@ -13,28 +13,55 @@
  *     }
  * }
  */
-class Solution {
-     List<Integer> ans = new ArrayList<> ();
-    public List<Integer> inorderTraversal(TreeNode root) {
+// class Solution {
+//      List<Integer> ans = new ArrayList<> ();
+//     public List<Integer> inorderTraversal(TreeNode root) {
         
        
 
-        inorder(root);
+//         inorder(root);
 
-        return ans;
-    }
+//         return ans;
+//     }
 
-    private void inorder( TreeNode node){
+//     private void inorder( TreeNode root){
 
-        if(node==null) return;
+//         if(root==null) return;
 
-        //traverse to the extreme left
-        inorder(node.left);
+//         //traverse to the extreme left
+//         inorder(root.left);
         
-        ans.add(node.val);
+//         ans.add(root.val);
 
-        //tracerse to the extreme right of that subtree 
-        inorder(node.right);
+//         //tracerse to the extreme right of that subtree 
+//         inorder(root.right);
+
+//     }
+// }
+
+// doing it using iterative and stack 
+class Solution {
+     List<Integer> ans = new ArrayList<> ();
+    public List<Integer> inorderTraversal(TreeNode root) {
+
+     List <Integer> ans = new ArrayList<>();
+     Stack<TreeNode> st= new Stack<>();
+     TreeNode node=root;
+
+     while(true){
+        if(node != null){
+            st.push(node);
+            node=node.left;
+        }
+        else{
+            if(st.isEmpty()) break;
+
+            node=st.pop();
+            ans.add(node.val);
+            node=node.right;
+        }
+     }
+     return ans;
 
     }
 }
