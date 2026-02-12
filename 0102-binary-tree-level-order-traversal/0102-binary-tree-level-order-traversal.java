@@ -16,36 +16,37 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
 
-        List<List<Integer>> ans = new ArrayList<>();
+// we have to return a list of all the nodes at each level so we create an arraylist for it of type node 
+     
+      List <List<Integer>> ans = new ArrayList<>();
 
-        if(root == null) return ans;
+      Queue<TreeNode> q= new LinkedList<>();
+      if(root== null) return ans;
+      
+      q.add(root);
 
-        Queue<TreeNode> q = new LinkedList<>();
+      while(!q.isEmpty()){
 
-        q.add(root);
+        int size=q.size();
+         
+         List <Integer> levelnodes= new ArrayList<>();
 
-        while(!q.isEmpty()){
+         for(int i=0;i<size;i++){
 
-            int size=q.size();
-            List<Integer> level=new ArrayList<>();
+            TreeNode curr = q.poll();
 
-            for(int i=0;i<size;i++){
-
-                TreeNode curr=q.poll();
-
-                level.add(curr.val);
-
-                if(curr.left!= null){
-                    q.add(curr.left);
-                }
-                if(curr.right !=null){
-                    q.add(curr.right);
-                }
-
+            levelnodes.add(curr.val);
+            
+            if(curr.left!= null){
+                q.add(curr.left);
             }
-            ans.add(level);
-        } 
+            if(curr.right != null){
+                q.add(curr.right);
+            }
+         }
+        ans.add(levelnodes);
+
+      }
         return ans;
-        
     }
 }
