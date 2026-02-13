@@ -306,6 +306,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puneet23205/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0237-delete-node-in-a-linked-list) |
 | [0860-design-circular-queue](https://github.com/puneet23205/LEETCODE/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
