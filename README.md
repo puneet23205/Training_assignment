@@ -250,6 +250,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/puneet23205/Training_assignment/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/puneet23205/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/puneet23205/Training_assignment/tree/master/0349-intersection-of-two-arrays) |
@@ -312,6 +313,7 @@
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puneet23205/Training_assignment/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0237-delete-node-in-a-linked-list) |
 | [0860-design-circular-queue](https://github.com/puneet23205/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0876-middle-of-the-linked-list) |
@@ -322,6 +324,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/puneet23205/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/puneet23205/Training_assignment/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/puneet23205/Training_assignment/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
@@ -332,6 +335,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/puneet23205/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
