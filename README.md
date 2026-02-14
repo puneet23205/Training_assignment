@@ -165,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/puneet23205/Training_assignment/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/puneet23205/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/puneet23205/Training_assignment/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/puneet23205/Training_assignment/tree/master/0048-rotate-image) |
@@ -315,6 +316,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/puneet23205/Training_assignment/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puneet23205/Training_assignment/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/puneet23205/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puneet23205/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -333,6 +335,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/puneet23205/Training_assignment/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/puneet23205/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/puneet23205/Training_assignment/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
