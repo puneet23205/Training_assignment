@@ -256,6 +256,7 @@
 | [0344-reverse-string](https://github.com/puneet23205/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/puneet23205/Training_assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/puneet23205/Training_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
@@ -320,6 +321,7 @@
 | [0328-odd-even-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/puneet23205/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/puneet23205/Training_assignment/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
