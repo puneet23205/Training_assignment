@@ -125,6 +125,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/puneet23205/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/puneet23205/Training_assignment/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/puneet23205/Training_assignment/tree/master/1382-balance-a-binary-search-tree) |
@@ -219,6 +220,7 @@
 | [0018-4sum](https://github.com/puneet23205/Training_assignment/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/puneet23205/Training_assignment/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/puneet23205/Training_assignment/tree/master/0229-majority-element-ii) |
@@ -248,6 +250,7 @@
 | [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puneet23205/Training_assignment/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/puneet23205/Training_assignment/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/puneet23205/Training_assignment/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
@@ -315,6 +318,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puneet23205/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/puneet23205/Training_assignment/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/puneet23205/Training_assignment/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0237-delete-node-in-a-linked-list) |
@@ -547,6 +551,10 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/puneet23205/Training_assignment/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
 
 This repo is for tracking all my leetcode questions and my consistency
