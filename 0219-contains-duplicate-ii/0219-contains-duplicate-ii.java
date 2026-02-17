@@ -5,23 +5,25 @@ class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
 
         HashSet<Integer> set = new HashSet<>();
+        int left = 0;
 
-        for (int i = 0; i < nums.length; i++) {
+        for (int right = 0; right < nums.length; right++) {
 
-            // If already in window → duplicate within k
-            if (set.contains(nums[i])) {
+            // If already present → duplicate within k distance
+            if (set.contains(nums[right])) {
                 return true;
             }
 
-            // Add current element
-            set.add(nums[i]);
+            set.add(nums[right]);
 
-            // Remove element which is too far
-            if (set.size() > k) {
-                set.remove(nums[i - k]);
+            // Maintain window size k
+            if (right - left >= k) {
+                set.remove(nums[left]);
+                left++;
             }
         }
 
         return false;
     }
 }
+
