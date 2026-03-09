@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/puneet23205/Training_assignment/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/puneet23205/Training_assignment/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/puneet23205/Training_assignment/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -147,6 +148,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneet23205/Training_assignment/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/puneet23205/Training_assignment/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/puneet23205/Training_assignment/tree/master/0213-house-robber-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puneet23205/Training_assignment/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
