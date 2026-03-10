@@ -10,26 +10,21 @@
  * }
  */
 public class Solution {
-    public boolean hasCycle(ListNode head) {
-        
-        if( head == null || head.next == null){
-                  return false;
-               }
+public boolean hasCycle(ListNode head) {
 
-    ListNode kachhuwa=head;
-    ListNode khargosh=head;
+    ListNode slow = head;
+    ListNode fast = head;
 
+    while(fast != null && fast.next != null){
 
-    while(kachhuwa != null && kachhuwa.next !=null){
+        slow = slow.next;
+        fast = fast.next.next;
 
-        khargosh=khargosh.next;
-        kachhuwa=kachhuwa.next.next;
-
-           if(kachhuwa ==khargosh){
+        if(slow == fast){
             return true;
-           }
-   
+        }
     }
+
     return false;
-    }
+}
 }
