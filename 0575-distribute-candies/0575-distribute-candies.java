@@ -1,14 +1,15 @@
-import java.util.*;
-
 class Solution {
-    public int distributeCandies(int[] candyType) {
-
+    public int distributeCandies(int[] nums) {
+        
+       
         HashSet<Integer> set = new HashSet<>();
-
-        for(int candy : candyType){
-            set.add(candy);
+        int n= nums.length;
+        for(int i=0;i<n;i++){
+            if(set.size() < n/2){
+                set.add(nums[i]);
+            }
         }
-
-        return Math.min(set.size(), candyType.length / 2);
+        int candies = set.size();
+        return candies;
     }
 }
