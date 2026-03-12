@@ -37,6 +37,7 @@
 | [0169-majority-element](https://github.com/puneet23205/Training_assignment/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/puneet23205/Training_assignment/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/puneet23205/Training_assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/puneet23205/Training_assignment/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/puneet23205/Training_assignment/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -156,6 +157,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/puneet23205/Training_assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/puneet23205/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/puneet23205/Training_assignment/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
@@ -455,6 +457,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puneet23205/Training_assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/puneet23205/Training_assignment/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/puneet23205/Training_assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/puneet23205/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/puneet23205/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/puneet23205/Training_assignment/tree/master/0424-longest-repeating-character-replacement) |
@@ -492,6 +495,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/puneet23205/Training_assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/puneet23205/Training_assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
