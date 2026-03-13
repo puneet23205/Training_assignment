@@ -15,7 +15,8 @@ class Solution {
       
         while(temp!= null){
 
-       while(temp.next != null && temp.val==temp.next.val){
+       while(temp.next != null && temp.val==temp.next.val)// check for temp.next because incase there is no duplication at the end node and temp is at last node then there can be problem with nullpointer exception
+       {
         temp.next=temp.next.next;
        }
        temp=temp.next;
