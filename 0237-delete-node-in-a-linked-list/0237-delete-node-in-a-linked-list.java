@@ -11,5 +11,7 @@ class Solution {
          
        node.val=node.next.val;
        node.next=node.next.next;
+
+       // this is the craziest brainhack i am seeing ,its really a back logic
          }
     }
