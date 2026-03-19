@@ -9,9 +9,11 @@
 class Solution {
     public void deleteNode(ListNode node) {
          
-       node.val=node.next.val;
-       node.next=node.next.next;
+     
 
-       // this is the craziest brainhack i am seeing ,its really a back logic
+       // this is the craziest brainhack i am seeing ,its really a hack logic
+         
+     node.val=node.next.val;
+     node.next=node.next.next;
          }
     }
