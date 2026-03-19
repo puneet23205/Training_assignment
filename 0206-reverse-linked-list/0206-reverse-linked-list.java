@@ -9,42 +9,22 @@
  * }
  */
         
-// class Solution {
-//     public ListNode reverseList(ListNode head) {
 
-//         ListNode temp = head;
-//         ListNode prev = null;
-//         ListNode nextnode = null;
-
-//         while (temp != null) {
-
-//             nextnode = temp.next;   // save next
-//             temp.next = prev;       // reverse link
-//             prev = temp;            // move prev
-//             temp = nextnode;        // move temp
-//         }
-
-//         return prev;
-//     }
-// }
 
 class Solution {
     public ListNode reverseList(ListNode head) {
       
-      if(head==null || head.next== null){
-        return head;
-      }
-      
-      ListNode temp = head;
-      ListNode prev = null;
-       while (temp!= null){
-          
-          ListNode front = temp.next;
-          temp.next=prev;
-          prev=temp;
-          temp=front;
-       }
+      if(head == null || head.next == null) return head;
 
-       return prev;
+      ListNode temp =head;
+      ListNode prev =null;
+
+      while(temp != null){
+        ListNode front =temp.next;
+        temp.next=prev;
+        prev=temp;
+        temp=front;
+      }
+      return prev;
     }
 }
