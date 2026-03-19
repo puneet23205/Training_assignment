@@ -62,14 +62,14 @@ public class Solution {
         ListNode temp2 = headB;
 
         while (temp1 != temp2) {
+         
+         if( temp1 != null)  temp1=temp1.next;
+         else temp1=headB;
 
-            // If temp1 reaches end, move to headB
-            temp1 = (temp1 == null) ? headB : temp1.next;
+         if(temp2 != null) temp2=temp2.next;
+         else temp2=headA;
+    }
 
-            // If temp2 reaches end, move to headA
-            temp2 = (temp2 == null) ? headA : temp2.next;
-        }
-
-        return temp1; // Can be intersection node OR null
+    return temp1;
     }
 }
