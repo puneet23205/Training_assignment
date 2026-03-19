@@ -10,16 +10,16 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if(head == null|| head.next== null) return head;
-        ListNode temp=head;
-      
-        while(temp!= null){
+        if(head == null || head.next == null) return head;
 
-       while(temp.next != null && temp.val==temp.next.val)// check for temp.next because incase there is no duplication at the end node and temp is at last node then there can be problem with nullpointer exception
-       {
-        temp.next=temp.next.next;
-       }
-       temp=temp.next;
+        ListNode temp =head;
+
+        while(temp != null && temp.next!= null){
+         
+             while(temp.next != null && temp.val== temp.next.val){
+                temp.next=temp.next.next;
+             }
+             temp=temp.next;
         }
         return head;
     }
