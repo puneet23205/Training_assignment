@@ -15,11 +15,9 @@ class Solution {
 
           int count =0;
          ListNode temp=head;
-         int i=0;
-          while(temp != null && i<k){
+          while(temp != null && count<k){
                 count++;
                 temp=temp.next;
-                i++;
           }
 
           if(count <k){
