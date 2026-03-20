@@ -18,12 +18,12 @@ class Solution {
 
         ListNode evenhead =even;
 
-        while( even !=null && even.next != null){
-            odd.next=odd.next.next;
-            even.next=even.next.next;
-
+        while( odd.next != null && even.next !=null){
+            odd.next=even.next;
             odd=odd.next;
-            even=even.next;
+            even.next=even.next.next;
+            even=odd.next;
+
         }
 
         odd.next=evenhead;
