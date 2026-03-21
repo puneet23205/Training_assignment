@@ -17,28 +17,40 @@ class Solution {
 
         if (head == null) return null;
 
-        HashMap<Node, Node> map = new HashMap<>();
-
-        Node temp = head;
-
-        // Step 1: Create all nodes
-        while (temp != null) {
-            map.put(temp, new Node(temp.val));
-            temp = temp.next;
+       Node temp=head;
+        
+        while(temp != null){
+            Node copy= new Node(temp.val);
+            Node front =temp.next;
+            temp.next=copy;
+            copy.next=front;
+            temp=front;
         }
 
-        // Step 2: Connect next and random
-        temp = head;
-
-        while (temp != null) {
-            Node copy = map.get(temp);
-
-            copy.next = map.get(temp.next);      // important
-            copy.random = map.get(temp.random);  // important
-
-            temp = temp.next;
+        temp =head;
+        while(temp != null){
+            if(temp.random != null){
+            temp.next.random=temp.random.next;
+            }
+            temp=temp.next.next;
         }
 
-        return map.get(head);
+        temp=head;
+        Node dummy=new Node (0);
+        Node curr=dummy;
+  // This is a very very imp part
+        while(temp != null && temp.next != null){
+            curr.next=temp.next;
+            temp.next=temp.next.next;
+            curr=curr.next;
+
+            if(curr.next != null){
+                curr.next=curr.next.next;
+            }
+           temp=temp.next;
+
+        }
+
+        return dummy.next;
     }
 }
