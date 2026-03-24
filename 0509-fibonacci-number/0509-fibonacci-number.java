@@ -15,17 +15,37 @@ class Solution {
 
         // return dp[n];
 
-        if(n<=1) return n;
-         int prev2=0;
-         int prev=1;
+   // Tabulation but space optimized
 
-         int curr=-1;
-         for(int i=2;i<= n;i++){
-            curr=prev2+prev;
-            prev2=prev;
-            prev=curr;
-         }
+        // if(n<=1) return n;
+        //  int prev2=0;
+        //  int prev=1;
 
-         return prev;
+        //  int curr=-1;
+        //  for(int i=2;i<= n;i++){
+        //     curr=prev2+prev;
+        //     prev2=prev;
+        //     prev=curr;
+        //  }
+
+        //  return prev;
+
+        int [] dp = new int [n+1];
+        for(int i=0;i<=n;i++){
+            dp[i]=-1;
+        }
+         
+         return fibbo(n,dp);
+    }
+
+    private static int fibbo(int n,int [] dp){
+         
+         if(n <= 1) return n;
+
+         if( dp[n] != -1) return dp[n];
+
+         dp[n]= fibbo(n-1,dp) + fibbo(n-2,dp);
+
+         return dp[n];
     }
 }
