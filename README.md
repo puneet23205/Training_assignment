@@ -154,6 +154,7 @@
 | [0152-maximum-product-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/puneet23205/Training_assignment/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/puneet23205/Training_assignment/tree/master/0213-house-robber-ii) |
+| [0509-fibonacci-number](https://github.com/puneet23205/Training_assignment/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puneet23205/Training_assignment/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -187,6 +188,7 @@
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/puneet23205/Training_assignment/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/puneet23205/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/puneet23205/Training_assignment/tree/master/1248-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
@@ -370,6 +372,7 @@
 | [0203-remove-linked-list-elements](https://github.com/puneet23205/Training_assignment/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/puneet23205/Training_assignment/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/puneet23205/Training_assignment/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
@@ -504,6 +507,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/puneet23205/Training_assignment/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
