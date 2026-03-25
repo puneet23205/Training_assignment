@@ -18,8 +18,8 @@ class Solution {
         int [] LastHouse_Skip = new int[n-1];
 
         for(int i=0;i<n-1;i++){
-            FirstHouse_Skip[i] = nums[i];
-            LastHouse_Skip[i] = nums[i+1];
+            FirstHouse_Skip[i] = nums[i+1];
+            LastHouse_Skip[i] = nums[i];
         }
 
         int firstLoot = robHouse(FirstHouse_Skip);
