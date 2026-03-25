@@ -1,28 +1,28 @@
 class Solution {
  public int rob(int[] nums) {
-    int n = nums.length;
-    
-    // Our final "Memory List"
-    int[] dp = new int[n];
-    
-    // Base Case: The very first house
-    dp[0] = nums[0];
+     
+     int n = nums.length;
 
-    for(int i = 1; i < n; i++) {
-        // Choice 1: Skip this house, take whatever we had at the previous house
-        int notPick = dp[i - 1];
-        
-        // Choice 2: Pick this house + loot from 2 houses ago
-        int pick = nums[i];
-        if(i > 1) {
-            pick += dp[i - 2];
-        }
-        
-        // Store the winner in our table
-        dp[i] = Math.max(pick, notPick);
-    }
-    
-    // The last spot in the table is our ultimate answer
-    return dp[n - 1];
-}
+     int [] dp = new int[n];
+     Arrays.fill(dp,-1);
+
+     return findmaxmoney(n-1,nums,dp);
+  } 
+
+  private static int findmaxmoney(int n,int [] nums,int dp[]){
+     
+     if(n<0) return 0;
+     if( n == 0) return nums[n];
+
+     if(dp[n] != -1) return dp[n];
+     
+     
+     int pick = nums[n] + findmaxmoney( n-2, nums,dp);
+
+     int notpick = findmaxmoney( n-1,nums,dp);
+
+     dp[n] = Math.max(pick,notpick);
+
+     return dp[n];
+   }
 }
