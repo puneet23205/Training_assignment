@@ -22,6 +22,7 @@
 | [0051-n-queens](https://github.com/puneet23205/Training_assignment/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/puneet23205/Training_assignment/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/puneet23205/Training_assignment/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
@@ -148,6 +149,7 @@
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/puneet23205/Training_assignment/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/puneet23205/Training_assignment/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/puneet23205/Training_assignment/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puneet23205/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -317,6 +319,7 @@
 | [0036-valid-sudoku](https://github.com/puneet23205/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/puneet23205/Training_assignment/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/puneet23205/Training_assignment/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/puneet23205/Training_assignment/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
