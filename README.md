@@ -88,6 +88,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/puneet23205/Training_assignment/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puneet23205/Training_assignment/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/puneet23205/Training_assignment/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -558,6 +560,7 @@
 | [0136-single-number](https://github.com/puneet23205/Training_assignment/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/puneet23205/Training_assignment/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Combinatorics
 |  |
 | ------- |
