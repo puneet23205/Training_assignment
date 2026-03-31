@@ -71,6 +71,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/puneet23205/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/puneet23205/Training_assignment/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/puneet23205/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/puneet23205/Training_assignment/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/puneet23205/Training_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/puneet23205/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -238,6 +239,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puneet23205/Training_assignment/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/puneet23205/Training_assignment/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/puneet23205/Training_assignment/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/puneet23205/Training_assignment/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
@@ -294,6 +296,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/puneet23205/Training_assignment/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/puneet23205/Training_assignment/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/puneet23205/Training_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
