@@ -193,6 +193,7 @@
 | [0050-powx-n](https://github.com/puneet23205/Training_assignment/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/puneet23205/Training_assignment/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/puneet23205/Training_assignment/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
@@ -221,6 +222,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/puneet23205/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/puneet23205/Training_assignment/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/puneet23205/Training_assignment/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/puneet23205/Training_assignment/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/puneet23205/Training_assignment/tree/master/0151-reverse-words-in-a-string) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/puneet23205/Training_assignment/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/puneet23205/Training_assignment/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
@@ -560,6 +563,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/puneet23205/Training_assignment/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/puneet23205/Training_assignment/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/puneet23205/Training_assignment/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/puneet23205/Training_assignment/tree/master/0136-single-number) |
