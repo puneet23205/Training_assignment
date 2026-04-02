@@ -1,28 +1,25 @@
 class Solution {
     public int trap(int[] height) {
-        int left = 0, right = height.length - 1;
-        int leftMax = 0, rightMax = 0;
-        int trappedWater = 0;
+      int left=0;
+      int right=height.length-1;
+      int leftmax=0;
+      int rightmax=0;
+      int water=0;
 
-        while (left < right) {
-            // operate on the side with the smaller height
-            if (height[left] < height[right]) {
-                if (height[left] >= leftMax) {
-                    leftMax = height[left]; // update boundary
-                } else {
-                    trappedWater += leftMax - height[left]; // water trapped
-                }
-                left++;
-            } else {
-                if (height[right] >= rightMax) {
-                    rightMax = height[right]; // update boundary
-                } else {
-                    trappedWater += rightMax - height[right]; // water trapped
-                }
-                right--;
-            }
+      while(left<right){
+        if(height[left]<height[right]){
+            leftmax=height[left]>leftmax?height[left]:leftmax;
+
+            water += leftmax-height[left];
+            left++;
         }
-        return trappedWater;
+        else{
+            rightmax=height[right]>rightmax?height[right]:rightmax;
+
+            water += rightmax-height[right];
+            right--;
+        }
+      }
+      return water;
     }
 }
-
