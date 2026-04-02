@@ -75,6 +75,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/puneet23205/Training_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/puneet23205/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/puneet23205/Training_assignment/tree/master/2751-robot-collisions) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/puneet23205/Training_assignment/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/puneet23205/Training_assignment/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/puneet23205/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -265,6 +266,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/puneet23205/Training_assignment/tree/master/2751-robot-collisions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/puneet23205/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/puneet23205/Training_assignment/tree/master/3634-minimum-removals-to-balance-array) |
@@ -351,6 +353,7 @@
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/puneet23205/Training_assignment/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-simple-bank-system](https://github.com/puneet23205/LEETCODE/tree/master/2169-simple-bank-system) |
+| [2751-robot-collisions](https://github.com/puneet23205/Training_assignment/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/puneet23205/LEETCODE/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/puneet23205/Training_assignment/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -410,6 +413,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/puneet23205/Training_assignment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puneet23205/Training_assignment/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2751-robot-collisions](https://github.com/puneet23205/Training_assignment/tree/master/2751-robot-collisions) |
 ## Design
 |  |
 | ------- |
