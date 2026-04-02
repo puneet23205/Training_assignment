@@ -1,36 +1,30 @@
 class Solution {
     public void sortColors(int[] nums) {
         
-        int n= nums.length;
-        int low=0;
-        int mid=0;
-        int high=n-1;
+     int low=0;
+     int mid=0;
+     int high=nums.length-1;
 
-
-        
-        while(mid<=high){
-
-//swap low and mid if first index od unsorted array is 0
-
-        if(nums[mid]==0){
-            int temp=nums[low];
-            nums[low]=nums[mid];
-            nums[mid]=temp;
-
+     while(mid <= high){
+        if(nums[mid] == 0){
+            swap(nums,mid,low);
             low++;
             mid++;
         }
-         //swap low and mid if first index od unsorted array is 1
+        else if(nums[mid] == 1) mid++;
 
-         else if(nums[mid]==1) mid++;
-
-         else {
-            int temp=nums[mid];
-            nums[mid]=nums[high];
-            nums[high]=temp;
-
+        else{
+            swap(nums,mid,high);
             high--;
-         }
-    }
+        }
+     }
+  }
+
+  private static int[] swap(int [] nums,int l,int r){
+     int temp=nums[l];
+     nums[l]=nums[r];
+     nums[r]=temp;
+
+     return nums;
   }
 }
