@@ -88,6 +88,7 @@
 | [3637-trionic-array-i](https://github.com/puneet23205/Training_assignment/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/puneet23205/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/puneet23205/Training_assignment/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -167,6 +168,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/puneet23205/Training_assignment/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/puneet23205/Training_assignment/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/puneet23205/Training_assignment/tree/master/3640-trionic-array-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/puneet23205/Training_assignment/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/puneet23205/Training_assignment/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Prefix Sum
@@ -271,6 +273,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/puneet23205/Training_assignment/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/puneet23205/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/puneet23205/Training_assignment/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -551,6 +554,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/puneet23205/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/puneet23205/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/puneet23205/Training_assignment/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Union Find
 |  |
 | ------- |
