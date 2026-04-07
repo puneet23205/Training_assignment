@@ -59,6 +59,7 @@
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0860-design-circular-queue](https://github.com/puneet23205/LEETCODE/tree/master/0860-design-circular-queue) |
+| [0874-walking-robot-simulation](https://github.com/puneet23205/Training_assignment/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/puneet23205/Training_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/puneet23205/Training_assignment/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +125,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/puneet23205/Training_assignment/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/puneet23205/Training_assignment/tree/master/0575-distribute-candies) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0874-walking-robot-simulation](https://github.com/puneet23205/Training_assignment/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/puneet23205/Training_assignment/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/puneet23205/Training_assignment/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/puneet23205/Training_assignment/tree/master/0992-subarrays-with-k-different-integers) |
@@ -356,6 +358,7 @@
 | [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/puneet23205/Training_assignment/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/puneet23205/Training_assignment/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/puneet23205/Training_assignment/tree/master/2075-decode-the-slanted-ciphertext) |
