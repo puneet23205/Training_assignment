@@ -28,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/puneet23205/Training_assignment/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/puneet23205/Training_assignment/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/puneet23205/Training_assignment/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/puneet23205/Training_assignment/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/puneet23205/Training_assignment/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puneet23205/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +163,7 @@
 | [0063-unique-paths-ii](https://github.com/puneet23205/Training_assignment/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/puneet23205/Training_assignment/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/puneet23205/Training_assignment/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/puneet23205/Training_assignment/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/puneet23205/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/puneet23205/Training_assignment/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -348,6 +350,7 @@
 | [0063-unique-paths-ii](https://github.com/puneet23205/Training_assignment/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/puneet23205/Training_assignment/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/puneet23205/Training_assignment/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
@@ -418,6 +421,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/puneet23205/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/puneet23205/Training_assignment/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/puneet23205/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/puneet23205/Training_assignment/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puneet23205/Training_assignment/tree/master/0144-binary-tree-preorder-traversal) |
@@ -439,6 +443,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/puneet23205/Training_assignment/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/puneet23205/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
