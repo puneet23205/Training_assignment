@@ -94,6 +94,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/puneet23205/Training_assignment/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/puneet23205/Training_assignment/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/puneet23205/Training_assignment/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/puneet23205/Training_assignment/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -142,6 +143,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/puneet23205/Training_assignment/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/puneet23205/Training_assignment/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/puneet23205/Training_assignment/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
