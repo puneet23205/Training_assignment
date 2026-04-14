@@ -2,21 +2,17 @@ class Solution {
     public int maxSubArray(int[] nums) {
 
         int currsum=0;
+        int maxsum=Integer.MIN_VALUE;
 
-        int maxsum= Integer.MIN_VALUE;
+        for(int x : nums){
+            currsum +=x;
 
-        int n= nums.length;
+            maxsum = Math.max(currsum,maxsum);
 
-        for(int i=0;i<n;i++){
-
-            currsum += nums[i];
-            maxsum=Math.max(maxsum,currsum);
-
-            if(currsum<0){
-                currsum=0;
-            }
+          currsum= (currsum<0)?0:currsum;
         }
-return maxsum;
+
+        return maxsum;
 
     }
 }
