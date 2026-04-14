@@ -53,6 +53,7 @@
 | [0239-sliding-window-maximum](https://github.com/puneet23205/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/puneet23205/Training_assignment/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/puneet23205/Training_assignment/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/puneet23205/Training_assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/puneet23205/Training_assignment/tree/master/0485-max-consecutive-ones) |
@@ -321,6 +322,7 @@
 | [0189-rotate-array](https://github.com/puneet23205/Training_assignment/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/puneet23205/Training_assignment/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/puneet23205/Training_assignment/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/puneet23205/Training_assignment/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/puneet23205/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/puneet23205/Training_assignment/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/puneet23205/Training_assignment/tree/master/0349-intersection-of-two-arrays) |
@@ -577,6 +579,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/puneet23205/Training_assignment/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/puneet23205/Training_assignment/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/puneet23205/Training_assignment/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/puneet23205/Training_assignment/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
@@ -612,6 +615,7 @@
 | [0090-subsets-ii](https://github.com/puneet23205/Training_assignment/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/puneet23205/Training_assignment/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/puneet23205/Training_assignment/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/puneet23205/Training_assignment/tree/master/0287-find-the-duplicate-number) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/puneet23205/Training_assignment/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Combinatorics
