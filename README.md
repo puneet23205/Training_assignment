@@ -101,6 +101,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/puneet23205/Training_assignment/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/puneet23205/Training_assignment/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/puneet23205/Training_assignment/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/puneet23205/Training_assignment/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -150,6 +151,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/puneet23205/Training_assignment/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/puneet23205/Training_assignment/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/puneet23205/Training_assignment/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/puneet23205/Training_assignment/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [1922-count-good-numbers](https://github.com/puneet23205/Training_assignment/tree/master/1922-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/puneet23205/LEETCODE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3336-water-bottles-ii](https://github.com/puneet23205/LEETCODE/tree/master/3336-water-bottles-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/puneet23205/Training_assignment/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/puneet23205/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/puneet23205/LEETCODE/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
